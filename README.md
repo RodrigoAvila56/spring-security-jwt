@@ -19,21 +19,32 @@ El proyecto se ejecuta en local, pero está preparado para futuras extensiones y
 ## Características
 
 -Autenticación JWT: Autenticación robusta basada en tokens JWT para proteger los endpoints de la aplicación.
+
+
 -Spring Security: Configuración avanzada de seguridad para manejar roles, permisos y la autenticación de usuarios.
+
+
 -Arquitectura en Capas: Separación clara de responsabilidades entre controladores, servicios y repositorios.
+
+
 -Modelo RESTful: Implementación de una API RESTful, lista para manejar solicitudes HTTP (GET, POST, PUT, DELETE).
 
 
-n como herramienta de gestión de dependencias
+--Maven como herramienta de gestión de dependencias
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Estructura del Proyecto
 El proyecto sigue una estructura bien organizada:
+
 -Controllers: Se encargan de manejar las solicitudes HTTP entrantes y devolver las respuestas apropiadas.
+
 -Models: Clases de entidades que representan la estructura de la base de datos.
+
 -Repositories: Capa de acceso a datos que interactúa con la base de datos.
+
 -Security: Configuraciones y filtros de seguridad para gestionar el proceso de autenticación y autorización.
+
 -Services: Lógica de negocio y conexión entre controladores y repositorios.
 
 ## Authors
@@ -53,4 +64,4 @@ Las contribuciones son bienvenidas. Si tienes ideas o mejoras, por favor abre un
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+
