@@ -10,9 +10,17 @@ El proyecto se ejecuta en local, pero está preparado para futuras extensiones y
 ## Built With
 
 --Java 
+
+
 --Spring Boot
+
+
 --Spring Security
+
+
 --JWT (JSON Web Token)
+
+
 --Maven como herramienta de gestión de dependencias
 
 
